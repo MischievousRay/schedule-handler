@@ -8,7 +8,7 @@ export default function Home() {
       <header className="border-b">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2 font-semibold">
-            <CalendarClock className="h-6 w-6 suppressHydrationWarning" />
+            <CalendarClock className="h-6 w-6 suppressHydrationWarning dark" />
             <span>Schedule Handler</span>
           </div>
           <nav className="flex gap-4">
